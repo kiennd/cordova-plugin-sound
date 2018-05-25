@@ -19,7 +19,7 @@
     <clobbers target="plugins.sound" />
   </js-module>
 
-  <dependency id="cordova-plugin-add-swift-support" version="1.7.2"/>
+  <dependency id="cordova-plugin-add-swift-support" url="https://github.com/akofman/cordova-plugin-add-swift-support"/>
 
   <platform name="android">
 
